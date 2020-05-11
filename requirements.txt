@@ -1,0 +1,4 @@
+The requirements for the programmming are:
+- Python
+- PyQt5
+- OpenCV
